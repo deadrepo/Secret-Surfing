@@ -1,4 +1,4 @@
-# Shadow-Surf
+# ShadowSurf
 [SS] 秘密のサーフィン  Anonymity Browsing
 
 
